@@ -1,0 +1,16 @@
+Фотографии Unsplash, загружены 16.11.2026 для учебного проекта TripPlan.
+
+mountains.jpg
+https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=1600&q=85&fit=crop
+
+rome.jpg
+https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=1200&q=85&fit=crop
+
+paris.jpg
+https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=85&fit=crop
+
+istanbul.jpg
+https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?w=1200&q=85&fit=crop
+
+Локальное хранение позволяет открыть сайт без внешней загрузки фотографий.
+Горный снимок служит общей иллюстрацией природы, без привязки к конкретному маршруту.
